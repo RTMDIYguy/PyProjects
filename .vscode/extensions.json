@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-vscode.cpptools",
+    "almenon.arepl",
+    "adityabaradwaj.copy-python-path-remote",
+    "batisteo.vscode-django",
+    "zedobaia.django-pyqt",
+    "donjayamanne.githistory"
+  ]
+}

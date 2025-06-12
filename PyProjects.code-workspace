@@ -11,3 +11,9 @@
 		}
 	}
 }
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-vscode.cpptools"
+  ]
+}
