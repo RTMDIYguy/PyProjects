@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.explorerKind": "integrated",
+		"terminal.integrated.automationProfile.windows": {
+			
+		}
+	}
+}
