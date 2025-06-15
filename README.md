@@ -1,0 +1,1 @@
+Well I guess this is shortlived. I seem to have broken VS code, none of the extensions work. The few that do are not talking to each other. I can't find the right files to modify to set things right. Copilot helped as best he could but garbage in/garbage out.
